@@ -1,0 +1,1 @@
+export { DbmlDiagram } from './DbmlDiagram';
